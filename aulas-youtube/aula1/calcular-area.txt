@@ -1,0 +1,8 @@
+algoritmo calculo area
+inicio
+    declare area, raio, pi numerico
+    pi => 3.14
+    leia raio
+    area => pi * raio * raio
+    imprimir area
+fim
