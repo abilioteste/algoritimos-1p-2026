@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int valor, i, maior = 0, posicao = 1;
+    int valor, i, maior = 0, posicao;
     for(i = 0; i < 5; i++){ 
         scanf("%d", &valor);
         if (valor > maior){ 
