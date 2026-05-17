@@ -1,0 +1,6 @@
+inicio
+    declare num1, num2, media double
+    leia num1 e num2
+    media <= (num1 + num2) / 2
+    escreva MEDIA = %.5lf
+fim
